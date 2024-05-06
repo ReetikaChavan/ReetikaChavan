@@ -31,21 +31,22 @@
 
 <hr/>
  
-<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?icon=python&color=yellow" />
-    <img src="https://skillicons.dev/icons?icon=java&color=red" />
-    <img src="https://skillicons.dev/icons?icon=html&color=orange" />
-    <img src="https://skillicons.dev/icons?icon=css&color=blue" />
-    <img src="https://skillicons.dev/icons?icon=visualstudio&color=purple" /><br>
-    <img src="https://skillicons.dev/icons?icon=github&color=black" />
-    <img src="https://skillicons.dev/icons?icon=flutter&color=blue" />
-    <img src="https://skillicons.dev/icons?icon=powerbi&color=purple" />
+    <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/powerbi-purple?style=for-the-badge&logo=powerbi&logoColor=white" />
 </div>
 
 <br/>
 <hr/>
+
 
 
 <div align="center">
