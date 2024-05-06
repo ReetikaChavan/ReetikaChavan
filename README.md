@@ -31,7 +31,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=blue" />
     <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/powerbi-purple?style=for-the-badge&logo=powerbi&logoColor=white" />
 </div>
@@ -61,7 +61,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-## 📟 GitHub Stats
+
 <div align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ReetikaChavan&show_icons=true&theme=react" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ReetikaChavan&theme=react" />
