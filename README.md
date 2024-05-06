@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=blue" />
+    <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/powerbi-purple?style=for-the-badge&logo=powerbi&logoColor=white" />
 </div>
