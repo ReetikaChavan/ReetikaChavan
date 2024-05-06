@@ -29,17 +29,24 @@
   
 </div>
 
- <hr/>
+<hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github,r" />
-    <img src="https://skillicons.dev/icons?i=flutter,powerbi" /><br>
+    <img src="https://skillicons.dev/icons?icon=python&color=yellow" />
+    <img src="https://skillicons.dev/icons?icon=java&color=red" />
+    <img src="https://skillicons.dev/icons?icon=html&color=orange" />
+    <img src="https://skillicons.dev/icons?icon=css&color=blue" />
+    <img src="https://skillicons.dev/icons?icon=visualstudio&color=purple" /><br>
+    <img src="https://skillicons.dev/icons?icon=github&color=black" />
+    <img src="https://skillicons.dev/icons?icon=flutter&color=blue" />
+    <img src="https://skillicons.dev/icons?icon=powerbi&color=purple" />
 </div>
 
 <br/>
 <hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -55,8 +62,8 @@
 <br>
 ## 📟 GitHub Stats
 <div align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ReetikaChavan&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ReetikaChavan&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ReetikaChavan&show_icons=true&theme=react" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ReetikaChavan&theme=react" />
 	 <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ReetikaChavan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
