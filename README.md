@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python Libraries**
 
-💬 Ask me about **Python, Data Science, HTML... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, Data Science, HTML... or anything [here](reetikachavan02@gmail.com)**
 
 
  </div>
