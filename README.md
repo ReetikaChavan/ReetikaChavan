@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reetika+Chavan!;" />
 </h1>
 
-<h3 align="center">A passionate Python developer</h3>
+<h3 align="center">A dedicated developer specializing in frontend technologies, Python-based data science, and machine learning</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Various projects related to Machine Learning and Data Science**
+ 🔭 I’m currently working on ** diverse projects in Frontend Development, Machine Learning, and Data Science**
  
- 🌱 I’m currently learning **Python Libraries**
+ 🌱 I’m currently learning **Fontend Libraries**
 
-💬 Ask me about **Python, Data Science, HTML... or anything [here](reetikachavan02@gmail.com)**
+💬 Ask me about **Frontend, Python, Data Science... or anything at [Here](mailto:reetikachavan02@gmail.com)**
 
 
  </div>
@@ -35,6 +35,11 @@
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,6 +47,7 @@
     <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/powerbi-purple?style=for-the-badge&logo=powerbi&logoColor=white" />
+
 </div>
 
 <br/>
