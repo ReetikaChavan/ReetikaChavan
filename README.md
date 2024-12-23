@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** diverse projects in Frontend Development, Machine Learning, and Data Science**
+ 🔭 I’m currently working on **diverse projects in Frontend Development, Machine Learning, and Data Science**
  
  🌱 I’m currently learning **Fontend Libraries**
 
@@ -31,7 +31,7 @@
 
 <hr/>
  
-<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
+<h2 align="center">💻 Languages & Tools 💻</h2>
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" />
