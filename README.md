@@ -4,17 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reetika+Chavan!;" />
 </h1>
 
-<h3 align="center">A dedicated developer specializing in frontend technologies, Python-based data science, and machine learning</h3>
+<h3 align="center">Software Engineer | Full-Stack (TypeScript, React, NestJS, Go) | AI/ML</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **diverse projects in Frontend Development, Machine Learning, and Data Science**
+ 🔭 I’m currently building **production features on a multi-cloud front-end hosting and deployment platform**
  
- 🌱 I’m currently learning **Fontend Libraries**
+ 🌱 I’m currently deepening my skills in **distributed systems, Go and cloud infrastructure**
 
-💬 Ask me about **Frontend, Python, Data Science... or anything at [Here](mailto:reetikachavan02@gmail.com)**
+💬 Ask me about **React, TypeScript, NestJS, GraphQL, MongoDB, Python and Machine Learning** — or reach me [here](mailto:reetikachavan02@gmail.com)
+
+📍 Mumbai, India
 
 
  </div>
@@ -46,7 +48,13 @@
     <img src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white" /><br>
     <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/powerbi-purple?style=for-the-badge&logo=powerbi&logoColor=white" />
+    <img src="https://img.shields.io/badge/powerbi-purple?style=for-the-badge&logo=powerbi&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 
 </div>
 
@@ -54,6 +62,14 @@
 <hr/>
 
 
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+
+- **Plant Disease Detection** – hybrid CNN + YOLO model for disease classification and localization, with a Flutter app and FastAPI backend
+- **Car Price Prediction** – scikit-learn regression model deployed as a Streamlit web app
+- **Sign Language Recognition** – real-time sign-to-text app using CNN, TensorFlow and OpenCV
+
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
